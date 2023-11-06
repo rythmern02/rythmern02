@@ -1,6 +1,6 @@
 
-<h3 align="center">Hi there 👋, I'm Rythme Nagrani</h3>
-<h4 align="center">Blockchain Enthusiast, Researcher, Developer</h4>
+<h1 align="center">Hi there 👋, I'm Rythme Nagrani</h1>
+<h2 align="center">Blockchain Enthusiast, Researcher, Developer</h2>
 
 <div id="socials" align="center">
      <a href="https://www.linkedin.com/in/rythme-nagrani-170ab1265/"><img src="https://user-images.githubusercontent.com/76098066/186728913-a66ef85f-4644-4e3a-b847-98309c8cff42.svg"></a>
