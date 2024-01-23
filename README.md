@@ -23,7 +23,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-3670A0?style=for-the-badge&logo=rust&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Graph](https://img.shields.io/badge/The Graph-FCC624?style=for-the-badge&logo=Graph&logoColor=black)
+![Graph](https://img.shields.io/badge/Graph-FCC624?style=for-the-badge&logo=Graph&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-3670A0?style=for-the-badge&logo=GraphQL&logoColor=black)
 
 #### Cloud & Database
