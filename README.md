@@ -118,6 +118,7 @@ const rythme = {
 <div align="center">
   <img src="https://ghchart.rshah.org/ffffff/rythmern02" alt="GitHub Contribution Chart" width="100%" />
 </div>
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> GitHub Metrics & Activity
 
 <div align="center">
