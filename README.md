@@ -288,9 +288,7 @@ impl BlockchainSorcerer for Rythme {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rythmern02&theme=matrix&no-frame=true&no-bg=true&row=1&column=8&margin-w=6&margin-h=6" width="100%" />
 
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rythmern02/rythmern02/output/github-contribution-grid-snake-dark.svg" />
