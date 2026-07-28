@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+      
+      .bg {
+        fill: #09090b;
+      }
+
+      .grid-line {
+        stroke: #18181b;
+        stroke-width: 1;
+      }
+      
+      .circle {
+        fill: none;
+        stroke-width: 2;
+        transform-origin: 50% 50%;
+      }
+      
+      .circle-1 {
+        stroke: #14F195;
+        stroke-dasharray: 4 12;
+        animation: spin 20s linear infinite;
+      }
+
+      .circle-2 {
+        stroke: #9945FF;
+        stroke-dasharray: 10 20;
+        animation: spin-reverse 30s linear infinite;
+      }
+
+      .circle-3 {
+        stroke: #00F0FF;
+        stroke-dasharray: 2 6;
+        animation: spin 15s linear infinite;
+      }
+      
+      @keyframes spin {
+        100% { transform: rotate(360deg); }
+      }
+      
+      @keyframes spin-reverse {
+        100% { transform: rotate(-360deg); }
+      }
+      
+      .title {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 64px;
+        font-weight: 800;
+        fill: #ffffff;
+        text-anchor: middle;
+      }
+      
+      .subtitle {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 14px;
+        font-weight: 800;
+        fill: #a1a1aa;
+        letter-spacing: 6px;
+        text-anchor: middle;
+      }
+      
+      .accent {
+        fill: #14F195;
+      }
+
+      .glow {
+        animation: pulse 2s ease-in-out infinite alternate;
+      }
+
+      @keyframes pulse {
+        0% { text-shadow: 0 0 10px rgba(0, 240, 255, 0.4); }
+        100% { text-shadow: 0 0 25px rgba(0, 240, 255, 0.9), 0 0 35px rgba(0, 240, 255, 0.6); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="260" class="bg" rx="10" />
+
+  <!-- Grid -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" class="grid-line"/>
+  </pattern>
+  <rect width="850" height="260" fill="url(#grid)" />
+
+  <!-- Animated Tech Circles behind text -->
+  <g transform="translate(425, 120)">
+    <circle cx="0" cy="0" r="140" class="circle circle-1" />
+    <circle cx="0" cy="0" r="160" class="circle circle-2" />
+    <circle cx="0" cy="0" r="180" class="circle circle-3" />
+  </g>
+
+  <!-- Title Text -->
+  <text x="425" y="135" class="title glow">RYTHME NAGRANI</text>
+  
+  <!-- Subtitle Text -->
+  <text x="425" y="190" class="subtitle">
+    <tspan class="accent">⌬</tspan> ALL-STACK BLOCKCHAIN SORCERER <tspan class="accent">⌬</tspan>
+  </text>
+  
+  <!-- Decorative corner borders -->
+  <path d="M 20 50 L 20 20 L 50 20" fill="none" stroke="#9945FF" stroke-width="3" />
+  <path d="M 830 50 L 830 20 L 800 20" fill="none" stroke="#00F0FF" stroke-width="3" />
+  <path d="M 20 210 L 20 240 L 50 240" fill="none" stroke="#14F195" stroke-width="3" />
+  <path d="M 830 210 L 830 240 L 800 240" fill="none" stroke="#9945FF" stroke-width="3" />
+</svg>
