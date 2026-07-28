@@ -43,7 +43,7 @@ impl BlockchainSorcerer for Rythme {
     }
 
     fn chains() -> Vec<Chain> {
-        vec![Solana, Starknet, Ethereum, Rootstock, Initia]
+        vec![Solana, Starknet, Ethereum, Rootstock, Initia, Arbitrum, Base, Logos, Arc]
     }
 
     fn dark_arts() -> Vec<&'static str> {
@@ -232,6 +232,10 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://img.shields.io/badge/ETHEREUM-14F195?style=for-the-badge&logo=ethereum&logoColor=black" />
 <img src="https://img.shields.io/badge/ROOTSTOCK-9945FF?style=for-the-badge&logo=bitcoin&logoColor=white" />
 <img src="https://img.shields.io/badge/INITIA-00F0FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/ARBITRUM-14F195?style=for-the-badge&logo=arbitrum&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/BASE-00F0FF?style=for-the-badge&logo=base&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/LOGOS_NETWORK-9945FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/ARC_CHAIN-000000?style=for-the-badge&color=14F195" />
 
 ### ⟨ dark arts ⟩
 <img src="https://img.shields.io/badge/ZK--PROOFS-000000?style=for-the-badge&labelColor=000000&color=14F195" />
@@ -366,6 +370,7 @@ impl BlockchainSorcerer for Rythme {
 
 **[*] star something before you bounce >_ the algorithm and I both appreciate it.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,50:00F0FF,100:14F195&height=140&section=footer&text=%3C%2F%20KEEP%20SHIPPING%20%3E&fontSize=26&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn" width="100%" />
+<br/>
+<h3 align="center"><code>&lt;/ KEEP SHIPPING &gt;</code></h3>
 
 </div>
