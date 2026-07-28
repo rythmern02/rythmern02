@@ -6,7 +6,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,30:0D1117,100:050505&text=RYTHME%20NAGRANI&fontSize=65&fontColor=00F0FF&animation=twinkling&desc=%E2%8C%AC%20ALL-STACK%20BLOCKCHAIN%20SORCERER%20%C3%97%20TECHNICAL%20FOUNDER%20%E2%8C%AC&descSize=16&descAlignY=82&stroke=FF00FF&strokeWidth=2" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rythmern02/rythmern02/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rythmern02/rythmern02/output/github-contribution-grid-snake.svg" />
+  <img alt="the contribution snake feasts" src="https://raw.githubusercontent.com/rythmern02/rythmern02/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/>
+
+<h1 align="center">RYTHME NAGRANI</h1>
 
 <a href="https://github.com/rythmern02">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=850&height=60&lines=%3E_+booting+rythme.sol+...;ZK-Proofs+%C2%B7+Account+Abstraction+%C2%B7+AI+%C3%97+Crypto;Founder+%40+Web3Spell+%E2%80%A2+Host+%40+SpellCast;Solana+%C2%B7+Starknet+%C2%B7+Ethereum+%C2%B7+Rootstock+%C2%B7+Initia;shipping+%3E+talking.+always." alt="typing intro" />
@@ -288,13 +296,6 @@ impl BlockchainSorcerer for Rythme {
 
 <br/><br/>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rythmern02/rythmern02/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rythmern02/rythmern02/output/github-contribution-grid-snake.svg" />
-  <img alt="the contribution snake feasts" src="https://raw.githubusercontent.com/rythmern02/rythmern02/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 </div>
 
