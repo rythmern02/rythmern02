@@ -28,7 +28,7 @@
 
 </div>
 
-## ⌬ SYSTEM SCAN — `whoami`
+## ⌬ SYSTEM SCAN >_ `whoami`
 
 ```rust
 // $ cargo run --release -- --identity
@@ -65,7 +65,7 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9945FF,50:00F0FF,100:14F195&height=3" width="100%" />
 </div>
 
-## ◢◤ 2026 DIRECTIVES — `systemctl status rythme.service`
+## ◢◤ 2026 DIRECTIVES >_ `systemctl status rythme.service`
 
 | STATUS | MISSION | LOAD |
 |:---:|:---|:---|
@@ -79,7 +79,7 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9945FF,50:00F0FF,100:14F195&height=3" width="100%" />
 </div>
 
-## ⟁ FLAGSHIP BUILDS — `ls -la /dev/shipped`
+## ⟁ FLAGSHIP BUILDS >_ `ls -la /dev/shipped`
 
 <table width="100%">
 <tr>
@@ -93,7 +93,10 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://img.shields.io/badge/NILLION_MPC-00F0FF?style=flat-square&labelColor=000000" />
 <img src="https://img.shields.io/badge/ZK--PROOFS-000000?style=flat-square" />
 </p>
-<p align="center"><a href="https://github.com/rythmern02"><img src="https://img.shields.io/badge/🔒_IN_THE_VAULT-0D1117?style=for-the-badge" /></a></p>
+<p align="center">
+<a href="https://github.com/MeetCivitas/Civitas-Sol"><img src="https://img.shields.io/badge/⌥_SOURCE-0D1117?style=for-the-badge&logo=github" /></a>
+<a href="https://meetcivitas.xyz"><img src="https://img.shields.io/badge/⚡_LIVE-meetcivitas.xyz-14F195?style=for-the-badge&labelColor=000000" /></a>
+</p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">🏺 CHAINPOT</h3>
@@ -105,7 +108,7 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://img.shields.io/badge/COMPOUND_GRANTEE-14F195?style=flat-square&labelColor=000000" />
 </p>
 <p align="center">
-<a href="https://github.com/rythmern02/Chainpot"><img src="https://img.shields.io/badge/⌥_SOURCE-0D1117?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/Web3spell/chainpot"><img src="https://img.shields.io/badge/⌥_SOURCE-0D1117?style=for-the-badge&logo=github" /></a>
 <a href="https://chainpot.fun"><img src="https://img.shields.io/badge/⚡_LIVE-chainpot.fun-14F195?style=for-the-badge&labelColor=000000" /></a>
 </p>
 </td>
@@ -123,22 +126,22 @@ impl BlockchainSorcerer for Rythme {
 <p align="center"><a href="https://github.com/rythmern02/Labelo"><img src="https://img.shields.io/badge/⌥_SOURCE-0D1117?style=for-the-badge&logo=github" /></a></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🪬 PRAMA</h3>
-<p align="center"><b>AI Astrology × Palmistry, In Your Pocket</b></p>
-<p align="center">Ancient computation meets modern inference — an AI-driven astrology & palmistry mobile app reading charts and palms with the <b>Google Gemini API</b>, wrapped in a buttery React Native experience.</p>
+<h3 align="center">🌌 SKYSCREEN</h3>
+<p align="center"><b>Decentralized Display Infrastructure</b></p>
+<p align="center">Exploring the TypeScript territory for decentralized screen sharing and peer-to-peer data streaming. Fast, lightweight, and fully permissionless.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/REACT_NATIVE-00F0FF?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/EXPO-9945FF?style=flat-square&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/GEMINI_API-14F195?style=flat-square&logo=googlegemini&logoColor=black" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-00F0FF?style=flat-square&logo=typescript&logoColor=black" />
+<img src="https://img.shields.io/badge/NODE.JS-9945FF?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/WEBRTC-14F195?style=flat-square&logo=webrtc&logoColor=black" />
 </p>
-<p align="center"><a href="https://github.com/rythmern02"><img src="https://img.shields.io/badge/📱_SHIPPING_SOON-0D1117?style=for-the-badge" /></a></p>
+<p align="center"><a href="https://github.com/rythmern02/skyscreen"><img src="https://img.shields.io/badge/⌥_SOURCE-0D1117?style=for-the-badge&logo=github" /></a></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3 align="center">⚒️ ROOTSTOCK BUILDER ROOTCAMP — THE TOOLBOX</h3>
+<h3 align="center">⚒️ ROOTSTOCK BUILDER ROOTCAMP ⚙️ THE TOOLBOX</h3>
 <p align="center"><b>Bitcoin-secured smart contracts deserve better DX. So I built it.</b></p>
-<p align="center">Shipped a <b>Foundry Deployer Action</b>, a <b>Java RNS Resolver</b>, a <b>Refuel Kit widget</b> — plus <b>Fee-Radar</b> (surfaces the hidden peg-out costs wallets ignore) and <b>Permit-Wiz</b> (debugging gasless RIF Relay transactions without the tears).</p>
+<p align="center">Shipped a <b>Foundry Deployer Action</b>, a <b>Java RNS Resolver</b>, a <b>Refuel Kit widget</b> — plus <b>Fee-Radar</b> (surfaces peg-out costs) and <b>Permit-Wiz</b> (gasless RIF Relay tx debugging). Also authored the <b>LI.FI integration guide</b> for the RSK Dev Portal.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/ROOTSTOCK-14F195?style=flat-square&logo=bitcoin&logoColor=black" />
 <img src="https://img.shields.io/badge/FOUNDRY-9945FF?style=flat-square&labelColor=000000" />
@@ -149,6 +152,7 @@ impl BlockchainSorcerer for Rythme {
 <a href="https://github.com/rythmern02/Fee-Radar"><img src="https://img.shields.io/badge/FEE--RADAR-0D1117?style=for-the-badge&logo=github" /></a>
 <a href="https://github.com/rythmern02/Permit-Wiz"><img src="https://img.shields.io/badge/PERMIT--WIZ-0D1117?style=for-the-badge&logo=github" /></a>
 <a href="https://github.com/rythmern02/Rootstock-Paymaster-Kit"><img src="https://img.shields.io/badge/PAYMASTER--KIT-0D1117?style=for-the-badge&logo=github" /></a>
+<a href="https://dev.rootstock.io/ko/use-cases/interoperability/integrate-lifi/"><img src="https://img.shields.io/badge/📖_LI.FI_GUIDE-0D1117?style=for-the-badge" /></a>
 </p>
 </td>
 </tr>
@@ -158,19 +162,19 @@ impl BlockchainSorcerer for Rythme {
 
 <div align="center">
 
-<a href="https://github.com/rythmern02/Fee-Radar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rythmern02&repo=Fee-Radar&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
-<a href="https://github.com/rythmern02/Permit-Wiz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rythmern02&repo=Permit-Wiz&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
+<a href="https://github.com/rythmern02/Fee-Radar"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rythmern02&repo=Fee-Radar&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
+<a href="https://github.com/rythmern02/Permit-Wiz"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rythmern02&repo=Permit-Wiz&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
 
-<a href="https://github.com/rythmern02/x402-ASP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rythmern02&repo=x402-ASP&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
-<a href="https://github.com/rythmern02/coffee-stylus-contract"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rythmern02&repo=coffee-stylus-contract&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
+<a href="https://github.com/rythmern02/x402-ASP"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rythmern02&repo=x402-ASP&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
+<a href="https://github.com/rythmern02/coffee-stylus-contract"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rythmern02&repo=coffee-stylus-contract&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
 
-<a href="https://github.com/rythmern02/Labelo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rythmern02&repo=Labelo&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
-<a href="https://github.com/rythmern02/Chainpot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rythmern02&repo=Chainpot&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
+<a href="https://github.com/rythmern02/Labelo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rythmern02&repo=Labelo&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
+<a href="https://github.com/Web3spell/chainpot"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Web3spell&repo=chainpot&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=9945FF&hide_border=true" /></a>
 
 </div>
 
 <details>
-<summary>&nbsp;⛃ <b>decrypt: the deeper archive</b> — <i>click if you dare</i></summary>
+<summary>&nbsp;⛃ <b>decrypt: the deeper archive</b> ;) <i>click if you dare</i></summary>
 <br/>
 
 - ⚗️ [**liveness-vault**](https://github.com/rythmern02/liveness-vault) — Solidity experiments in vault liveness
@@ -187,7 +191,7 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9945FF,50:00F0FF,100:14F195&height=3" width="100%" />
 </div>
 
-## ⛓ THE ARSENAL — `nvim ~/.stack`
+## ⛓ THE ARSENAL >_ `nvim ~/.stack`
 
 <div align="center">
 
@@ -219,7 +223,7 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9945FF,50:00F0FF,100:14F195&height=3" width="100%" />
 </div>
 
-## ✦ THE MOVEMENT — `sudo systemctl enable community`
+## ✦ THE MOVEMENT >_ `sudo systemctl enable community`
 
 <table width="100%">
 <tr>
@@ -249,22 +253,23 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9945FF,50:00F0FF,100:14F195&height=3" width="100%" />
 </div>
 
-## ⚔️ TROPHY SHELF — `cat /var/log/wins.log`
+## ⚔️ TROPHY SHELF >_ `cat /var/log/wins.log`
 
 | ⌁ | ACHIEVEMENT UNLOCKED | DATE |
 |:---:|:---|:---:|
-| 💰 | **$17,000 grant** — Compound Protocol via Questbook, for Chainpot | 2025–26 |
-| ⚡ | **Top 500 — Thrive Power List** | Jan 2026 |
-| 🛡️ | **Colosseum Frontier Hackathon** — shipped Civitas on Solana | Apr 2026 |
-| 🤖 | **DoraHacks INITIATE** — shipped Labelo on Initia testnet | 2026 |
-| ⚒️ | **Rootstock Builder Rootcamp** — Foundry Action · RNS Resolver · Refuel Kit | 2026 |
+| 🏆 | **Token 2049 Origins Hackathon** >_ Track Winner [x.com/CeloDevs/status/1973706736172507156](https://x.com/CeloDevs/status/1973706736172507156) | 2024 |
+| 💰 | **$17,000 grant** >_ Compound Protocol via Questbook, for Chainpot | 2025–26 |
+| ⚡ | **Top 500 >_ Thrive Power List** | Jan 2026 |
+| 🛡️ | **Colosseum Frontier Hackathon** >_ shipped Civitas on Solana | Apr 2026 |
+| 🤖 | **DoraHacks INITIATE** >_ shipped Labelo on Initia testnet | 2026 |
+| ⚒️ | **Rootstock Builder Rootcamp** >_ Foundry Action · RNS Resolver · Refuel Kit | 2026 |
 | 🎙️ | **65+ community events** hosted under Web3Spell | ongoing |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9945FF,50:00F0FF,100:14F195&height=3" width="100%" />
 </div>
 
-## 📡 TRANSMISSIONS — `tail -f ~/writing.log`
+## 📡 TRANSMISSIONS >_ `tail -f ~/writing.log`
 
 - ▸ [Why your crypto needs more than one key — Polkadot multisig, the real story](https://rythme.hashnode.dev/why-your-crypto-needs-more-than-one-key-the-real-story-of-polkadot-multisig-wallets)
 - ▸ [Wormhole: bridging the fragmented Web3 landscape](https://rythme.hashnode.dev/wormhole-bridging-the-fragmented-web3-landscape)
@@ -275,12 +280,12 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9945FF,50:00F0FF,100:14F195&height=3" width="100%" />
 </div>
 
-## ▓ DAMAGE REPORT — `htop --user=rythmern02`
+## ▓ DAMAGE REPORT >_ `htop --user=rythmern02`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rythmern02&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9945FF&text_color=C9D1D9&ring_color=14F195" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rythmern02&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rythmern02&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9945FF&text_color=C9D1D9&ring_color=14F195" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rythmern02&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" />
 
 <br/><br/>
 
@@ -306,7 +311,7 @@ impl BlockchainSorcerer for Rythme {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9945FF,50:00F0FF,100:14F195&height=3" width="100%" />
 </div>
 
-## ⌖ OPEN A CHANNEL — `ping rythme`
+## ⌖ OPEN A CHANNEL >_ `ping rythme`
 
 <div align="center">
 
