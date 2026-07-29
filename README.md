@@ -36,7 +36,7 @@
 pub struct Rythme;
 
 impl BlockchainSorcerer for Rythme {
-    const BASE: &'static str = "India [IN] >_ building for everywhere";
+    const BASE: &'static str = "Universe [RN] >_ building for everywhere";
 
     fn roles() -> [&'static str; 3] {
         ["Full-Stack Blockchain Engineer", "Chief Technology Officer", "Web3 Founder"]
@@ -259,7 +259,7 @@ impl BlockchainSorcerer for Rythme {
 <td width="50%" valign="top" align="center">
 <h3>[*] WEB3SPELL</h3>
 <p><b>Grassroots Web3, straight outta the heartland.</b></p>
-<p>Founded and scaled a builder community that has run <b>65+ developer events</b> — hackathons, ZK workshops, and protocol deep-dives — across <b>Bhopal & Vidisha, India</b>. Turning tier-2 cities into tier-1 talent pipelines.</p>
+<p>Founded and scaled a builder community that has run <b>65+ developer events</b> — hackathons, ZK workshops, and protocol deep-dives — across the <b> Globe </b>. Turning tier-2 cities into tier-1 talent pipelines.</p>
 <p>
 <img src="https://img.shields.io/badge/65%2B_EVENTS-9945FF?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/ZK_WORKSHOPS-14F195?style=for-the-badge&labelColor=000000" />
