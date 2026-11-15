@@ -1,0 +1,42 @@
+name: Refresh profile activity
+on:
+  schedule:
+    - cron: '37 2 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/refresh_activity.py
+      - .github/workflows/refresh-profile.yml
+permissions:
+  contents: write
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+jobs:
+  refresh:
+    if: github.repository == 'rythmern02/rythmern02'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13'
+      - name: Read public GitHub and npm data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/refresh_activity.py
+      - name: Verify activity data
+        run: python -m unittest discover -s tests -v
+      - name: Commit refreshed artwork
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/v2/activity.svg assets/v2/activity-mobile.svg assets/v2/activity.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Refresh public profile activity"
+          git push
